@@ -11,12 +11,8 @@ h1 {
     text-align: center;
 }
 
-.recipe-1 {
-    
-}
-
-.recipe-2 {
-    
+.recipe-1, .recipe-2 {
+    display: inline;
 }
 
 .recipe-3 {
