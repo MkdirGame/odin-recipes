@@ -1,5 +1,6 @@
 body {
     background: rgb(36, 36, 36);
+    box-sizing: border-box;
 }
 
 h1, p {
@@ -8,4 +9,16 @@ h1, p {
 
 h1 {
     text-align: center;
+}
+
+.recipe-1 {
+
+}
+
+.recipe-2 {
+
+}
+
+.recipe-3 {
+
 }
